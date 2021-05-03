@@ -1,0 +1,27 @@
+#######################################
+###### Classes in the library #########
+#######################################
+
+############ Main class ###############
+RhinoServo	KEYWORD1
+
+############ Functions ################
+AttachRhino_Serial	KEYWORD2
+AttachRhino_Address	KEYWORD2
+Set_Dir_Speed	KEYWORD2
+SetI2C_Address	KEYWORD2
+Reset_Reference	KEYWORD2
+Set_P_Gain	KEYWORD2
+Set_I_Gain	KEYWORD2
+Moveto	KEYWORD2
+MovetoRel	KEYWORD2
+GetCurrent_Position	KEYWORD2
+GetI2C_Address	KEYWORD2
+Get_P_Gain	KEYWORD2
+Get_I_Gain	KEYWORD2
+
+########### Literals ##################
+debugger	LITERAL1
+MODE_I2C	LITERAL1
+MODE_SERIAL	LITERAL1
+DEGtoCOUNT LITERAL1
